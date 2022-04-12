@@ -24,6 +24,7 @@
     <ProjectGuid>{a879312d-f390-480b-9a48-5b35ae92f293}</ProjectGuid>
     <RootNamespace>MineSweeper</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Calculator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
